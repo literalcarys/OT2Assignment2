@@ -1,4 +1,4 @@
-# OT2Assignment2
+# OT2 Assignment 2
 Completed by Carys Gilbert and Damien Matthew
 
 * OT2Assignment2.ipynb contains all code used
